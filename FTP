@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/815/325/png-transparent-cinema-film-movie-theatre-film-poster-clapperboard-stock-photography.png" group-title="FTP Movie", Haseen Dilruba
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/aa/f7/05/aaf705e06726ce3881288ae4be3ac5fe.jpg" group-title="FTP Movie", Haseen Dilruba
 http://index1.circleftp.net/FILE/Hindi%20Movies/2021/Haseen%20Dillruba%20%282021%29%201080p%20WEB-DL%20x264/Haseen%20Dillruba%20%282021%29%201080p%20WEB-DL%20x264.mkv
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/815/325/png-transparent-cinema-film-movie-theatre-film-poster-clapperboard-stock-photography.png" group-title="FTP Movie", Mimi
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/mimi.jpg" group-title="FTP Movie", Mimi
 http://index1.circleftp.net/FILE/Hindi%20Movies/2021/Mimi%20%282021%29%20Hindi%201080p%20WEB-DL%20H264/Mimi%20%282021%29%20Hindi%201080p%20WEB-DL%20H264.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/youtumor.jpg" group-title="FTP Movie", Youtumor
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Bangla%20(BD)/Youtumor%20(2021)%201080p%20WEBDL.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/joyjatra.jpeg" group-title="FTP Movie", Joyjatra
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Bangla%20(BD)/Joyjatra%20(2004)%20720p%20WEBDL.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ngk.jpg" group-title="FTP Movie", NGK
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/NGK%20(2019)%201080p%20BluRay.mkv
