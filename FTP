@@ -14,3 +14,6 @@ http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Bangla%20(BD)/Joyjatra%20(2004
 
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/ngk.jpg" group-title="FTP Movie", NGK
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/NGK%20(2019)%201080p%20BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sultan__sulthan_.jpg" group-title="FTP Movie", Sultan
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/South%20Indian%20(Hindi%20Dubbed)/Sulthan%20(2021)%201080p%20HDRip.mkv
