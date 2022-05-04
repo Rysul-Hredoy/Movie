@@ -6,8 +6,8 @@ http://index1.circleftp.net/FILE/Hindi%20Movies/2021/Haseen%20Dillruba%20%282021
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/mimi.jpg" group-title="FTP Movie", Mimi
 http://index1.circleftp.net/FILE/Hindi%20Movies/2021/Mimi%20%282021%29%20Hindi%201080p%20WEB-DL%20H264/Mimi%20%282021%29%20Hindi%201080p%20WEB-DL%20H264.mkv
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/youtumor.jpg" group-title="FTP Movie", Youtumor
-http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Bangla%20(BD)/Youtumor%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/djibouti.jpg" group-title="FTP Movie", DJIBOUTI (malaylam)
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/Djibouti%20(2021)%201080p%20WEBDL.mp4
 
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/joyjatra.jpeg" group-title="FTP Movie", Joyjatra
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Bangla%20(BD)/Joyjatra%20(2004)%20720p%20WEBDL.mkv
@@ -15,5 +15,32 @@ http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Bangla%20(BD)/Joyjatra%20(2004
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/ngk.jpg" group-title="FTP Movie", NGK
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/NGK%20(2019)%201080p%20BluRay.mkv
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sultan__sulthan_.jpg" group-title="FTP Movie", Sultan
-http://10.16.100.202/ftps10/iccftps10sasd10/Movies/South%20Indian%20(Hindi%20Dubbed)/Sulthan%20(2021)%201080p%20HDRip.mkv
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/aadavaallu_meeku_johaarlu.jpg" group-title="FTP Movie", AADAVAALLU MEEKU JOHAARLU
+http://10.16.100.202/ftps10/iccftps10sasd2/Movies/South%20Indian%20(Hindi%20Dubbed)/Aadavallu%20Meeku%20Joharlu%20(2022)%201080p%20WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/haider.jpg" group-title="FTP Movie", Haider
+http://10.16.100.241/ftps3d6/Movies/Hindi/Haider%20(2014)%20m1080p%20BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/dum_laga_ke_haisha.jpg" group-title="FTP Movie", DUM LAGA KE HAISHA
+http://10.16.100.248/ftps6d4/Movies/Hindi/Dum%20Laga%20Ke%20Haisha%20(2015)%201080p%20BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://index1.circleftp.net/FILE/Hindi%20Movies/2015/N.H%2010%20%282015%29%20%20720p/NH10-poster-400x.jpg", NH 10
+http://index1.circleftp.net/FILE/Hindi%20Movies/2015/N.H%2010%20%282015%29%20%20720p/N.H%2010%20%282015%29%20%20720p.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/masaan.jpg" group-title="FTP Movie", Masaan
+http://10.16.100.245/ftps2d1/Movies/Hindi/Masaan%20(2015)%20720p%20BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/meril_prothom_alo_award__2018_.jpg" group-title="FTP Movie", MERIL PROTHOM ALO AWARD (2019)
+http://10.16.100.248/ftps6d1/TV%20Show/Awards/Meril%20Prothom%20Alo%20Award%20(2018)%201080p%20WEBHD.mp4
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/shahoshika.jpeg" group-title="FTP Movie", SHAHOSHIKA
+http://10.16.100.206/ftps3/ftps3d6/TV%20Shows/Bangla%20Telefilm/Shahoshika%20(2021)%201080p%20WEBHD.mp4
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/chok.jpg" group-title="FTP Movie", CHOK
+http://10.16.100.206/ftps3/ftps3d4/TV%20Show/Bangla%20Telefilm/Chok%20(2021)%20720P%20WEBDL.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/hey_sinamika.jpg" group-title="FTP Movie", HEY SINAMIKA
+http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/Hey%20Sinamika%20(2022)%201080p%20WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/radhe_shyam.jpg" group-title="FTP Movie", RADHE SHYAM
+http://10.16.100.213/iccftps13/iccftps13sasd5/Movies/South%20Indian%20(Hindi%20Dubbed)/Radhe%20Shyam%20(2022)%201080p%20DVDRip.mp4
