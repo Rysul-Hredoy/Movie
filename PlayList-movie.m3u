@@ -1,0 +1,75 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282022%29/Cuttputli%20%282022%29%201080p/a_AL_.jpg" group-title="Movie", Cuttputli
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282022%29/Cuttputli%20%282022%29%201080p/Cuttputlli%20%282022%29%20Hindi%201080p%20HotStar%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282022%29/Darlings%20%282022%29%20720p/a_AL_.jpg" group-title="Movie", Darlings
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282022%29/Darlings%20%282022%29%20720p/Darlings%20%282022%29%20Hindi%20720p%20NF%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282007%29/Dhamaal%20%282007%29%201080p/aer.jpg" group-title="Movie", Dhamaal
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282007%29/Dhamaal%20%282007%29%201080p/Dhamaal%20%282007%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282006%29/Vivah%20%282006%29%201080p/a-x.jpg" group-title="Movie", Vivah
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282006%29/Vivah%20%282006%29%201080p/Vivah%20%282006%29%20RM%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/christopher.jpg" group-title="Movie", Christopher
+http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/South%20Indian%20(Hindi%20Dubbed)/Christopher%20(2023)%201080p%20WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/maha.jpg" group-title="Movie", MAHA
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/Maha%20(2022)%201080p%20WEBRip.mp4
+
+#EXTINF:-1 tvg-logo="http://172.16.50.9/SAM-FTP-1/Awards%20%26%20TV%20Shows/%23%20TV%20SPECIAL%20%26%20SHOWS/Zakir%20Khan-Tathastu%20%28TV%20Special%202022%29%20720p/a_VL_.jpg" group-title="Movie", Tathastu (Zakir Khan)
+http://172.16.50.9/SAM-FTP-1/Awards%20%26%20TV%20Shows/%23%20TV%20SPECIAL%20%26%20SHOWS/Zakir%20Khan-Tathastu%20%28TV%20Special%202022%29%20720p/Zakir%20Khan%20Tathastu%20%282022%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.9/SAM-FTP-1/Awards%20%26%20TV%20Shows/%23%20TV%20SPECIAL%20%26%20SHOWS/Zakir%20Khan-Tathastu%20%28TV%20Special%202022%29%20720p/a_VL_.jpg" group-title="Movie", Haq se Single (Zakir Khan)
+http://172.16.50.9/SAM-FTP-1/Awards%20%26%20TV%20Shows/%23%20TV%20SPECIAL%20%26%20SHOWS/Zakir%20Khan-Haq%20Se%20Single%20%28TV%20Special%202017%29%20720p/Zakir%20Khan%20Haq%20Se%20Single%20%282017%29%20Hindi%20720p%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/a_AL_.jpg" group-title="Series", Farzi E1
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Hindi%20Language%29/Farzi%20S01E01%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/a_AL_.jpg" group-title="Series", Farzi E2
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Hindi%20Language%29/Farzi%20S01E02%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/a_AL_.jpg" group-title="Series", Farzi E3
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Hindi%20Language%29/Farzi%20S01E03%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/a_AL_.jpg" group-title="Series", Farzi E4
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Hindi%20Language%29/Farzi%20S01E04%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/a_AL_.jpg" group-title="Series", Farzi E5
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Hindi%20Language%29/Farzi%20S01E05%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/a_AL_.jpg" group-title="Series", Farzi E6
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Hindi%20Language%29/Farzi%20S01E06%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/a_AL_.jpg" group-title="Series", Farzi E7
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Hindi%20Language%29/Farzi%20S01E07%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/a_AL_.jpg" group-title="Series", Farzi E8
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Farzi%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Hindi%20Language%29/Farzi%20S01E08%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="" group-title="Series", FnF (1-10)
+http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/FnF%20(Drama%20Serial)/FnF%20DVDrip%20[01-10].mkv
+
+#EXTINF:-1 tvg-logo="" group-title="Series", FnF (11-20)
+http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/FnF%20(Drama%20Serial)/FnF%20DVDrip%20[11-20].mkv
+
+#EXTINF:-1 tvg-logo="" group-title="Series", FnF (21-30)
+http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/FnF%20(Drama%20Serial)/FnF%20DVDrip%20[21-30].mkv
+
+#EXTINF:-1 tvg-logo="" group-title="Series", FnF (31-40)
+http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/FnF%20(Drama%20Serial)/FnF%20DVDrip%20[31-40].mkv
+
+#EXTINF:-1 tvg-logo="" group-title="Series", FnF (41-50)
+http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/FnF%20(Drama%20Serial)/FnF%20DVDrip%20[41-50].mkv
+
+#EXTINF:-1 tvg-logo="" group-title="Series", FnF (51-60)
+http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/FnF%20(Drama%20Serial)/FnF%20DVDrip%20[51-60].mkv
+
+#EXTINF:-1 tvg-logo="" group-title="Series", FnF (61-70)
+http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/FnF%20(Drama%20Serial)/FnF%20DVDrip%20[61-70].mkv
+
+#EXTINF:-1 tvg-logo="" group-title="Series", FnF (71-78)
+http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/FnF%20(Drama%20Serial)/FnF%20DVDrip%20[71-78].mkv
+
